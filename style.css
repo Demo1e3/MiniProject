@@ -1,0 +1,20 @@
+.firstsection{
+    background-color: darksalmon;
+    padding: 90px;
+    height:300px;
+}
+.midsection{
+    background-color:white;
+    padding-top: 100px;
+    padding:90px;
+    height:150px;
+}
+.lastsection{
+    background-color:rgba(255, 111, 0, 0.59);
+    padding-top: 100px;
+    padding:90px;
+    height:150px;
+}
+.text-small{
+    margin:20px;
+}
